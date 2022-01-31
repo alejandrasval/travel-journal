@@ -5,7 +5,7 @@ const NavBar = () => {
   return (
     <nav>
       <BiWorld className="icon-world"/>
-      <h1 className="title">my travel journey.</h1>
+      <h1 className="title">my travel journal.</h1>
     </nav>
   );
 };
